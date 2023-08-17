@@ -1,0 +1,22 @@
+.fs-lg {
+    font-size: 4rem;
+}
+
+.fs-sm {
+    font-size: 0.8rem;
+}
+
+body{
+    background: white;
+}
+
+.writer {
+    font-family: 'Itim', cursive;
+    color: orange;
+}
+
+
+.error {
+    font-size: 0.8rem;
+    color: red;
+}
