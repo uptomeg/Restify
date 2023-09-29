@@ -74,6 +74,6 @@ To set up the project on a new machine, follow these steps:
 
 ## Sample Pages
 
-<img width="1091" alt="image" src="property">
-<img width="1091" alt="image" src="comments">
+<img width="1091" alt="image" src="property.png">
+<img width="1091" alt="image" src="comments.png">
 
