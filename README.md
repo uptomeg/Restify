@@ -1,4 +1,5 @@
 # Restify
+My Grade:150/100(earn all the bonus marks)
 
 ## Discriptions
 Restify is an online marketplace where users can search, book, comment and rate short term lodging experiences. Moreover, property owners can create listings for their rental units (e.g., room, house, etc) and accept reservations from users. More details will follow in upcoming sections. Features are explained in terms of user stories, in a non-technical form, and from an imaginary user's point of view. You should not expect the same level of detail as assignments. Details that are not discussed below are left out to you, and you get to design them. Your final grading will be done mostly based on the overall functionality of your website as if the stakeholder is testing your application.
