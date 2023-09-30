@@ -1,5 +1,5 @@
 # Restify
-Final Project for CSC309: Web Programming. Earned full marks + bonus marks for this project.
+Final Project of CSC309: Web Programming. Earned full marks + bonus marks for this project.
 ## Discriptions
 Restify is an online marketplace where users can search, book, comment and rate short term lodging experiences. Moreover, property owners can create listings for their rental units (e.g., room, house, etc) and accept reservations from users. More details will follow in upcoming sections. Features are explained in terms of user stories, in a non-technical form, and from an imaginary user's point of view. 
 
