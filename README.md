@@ -72,7 +72,7 @@ To set up the project on a new machine, follow these steps:
 5. Run `sh cleanup.sh` to clean all files and data in the database.
 
 
-## Sample Pages
+## Some of the Pages
 
 <img width="1091" alt="image" src="property.png">
 <img width="1091" alt="image" src="comments.png">
